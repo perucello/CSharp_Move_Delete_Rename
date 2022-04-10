@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\GitHub\CSharp_Move_Delete_Rename\CSharp_Move_Delete_Rename\bin\Debug\netcoreapp3.1\CSharp_Move_Delete_Rename.exe
+C:\Users\Usuario\Documents\GitHub\CSharp_Move_Delete_Rename\CSharp_Move_Delete_Rename\bin\Debug\netcoreapp3.1\CSharp_Move_Delete_Rename.deps.json
+C:\Users\Usuario\Documents\GitHub\CSharp_Move_Delete_Rename\CSharp_Move_Delete_Rename\bin\Debug\netcoreapp3.1\CSharp_Move_Delete_Rename.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\CSharp_Move_Delete_Rename\CSharp_Move_Delete_Rename\bin\Debug\netcoreapp3.1\CSharp_Move_Delete_Rename.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\GitHub\CSharp_Move_Delete_Rename\CSharp_Move_Delete_Rename\bin\Debug\netcoreapp3.1\CSharp_Move_Delete_Rename.dll
+C:\Users\Usuario\Documents\GitHub\CSharp_Move_Delete_Rename\CSharp_Move_Delete_Rename\bin\Debug\netcoreapp3.1\CSharp_Move_Delete_Rename.pdb
+C:\Users\Usuario\Documents\GitHub\CSharp_Move_Delete_Rename\CSharp_Move_Delete_Rename\obj\Debug\netcoreapp3.1\CSharp_Move_Delete_Rename.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\CSharp_Move_Delete_Rename\CSharp_Move_Delete_Rename\obj\Debug\netcoreapp3.1\CSharp_Move_Delete_Rename.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\CSharp_Move_Delete_Rename\CSharp_Move_Delete_Rename\obj\Debug\netcoreapp3.1\CSharp_Move_Delete_Rename.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\CSharp_Move_Delete_Rename\CSharp_Move_Delete_Rename\obj\Debug\netcoreapp3.1\CSharp_Move_Delete_Rename.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\CSharp_Move_Delete_Rename\CSharp_Move_Delete_Rename\obj\Debug\netcoreapp3.1\CSharp_Move_Delete_Rename.dll
+C:\Users\Usuario\Documents\GitHub\CSharp_Move_Delete_Rename\CSharp_Move_Delete_Rename\obj\Debug\netcoreapp3.1\CSharp_Move_Delete_Rename.pdb
+C:\Users\Usuario\Documents\GitHub\CSharp_Move_Delete_Rename\CSharp_Move_Delete_Rename\obj\Debug\netcoreapp3.1\CSharp_Move_Delete_Rename.genruntimeconfig.cache
